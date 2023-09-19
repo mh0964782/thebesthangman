@@ -1,0 +1,2 @@
+Name,High Score
+Player,1

@@ -1,0 +1,10 @@
+cat
+dog
+bird
+rabbit
+lizard
+lion
+pigeon
+fish
+duck
+seal

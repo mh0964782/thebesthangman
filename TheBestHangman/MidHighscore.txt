@@ -1,0 +1,6 @@
+Name,High Score
+bob,1
+Frank,0
+Frank 2,1
+Kyle,0
+K,3
